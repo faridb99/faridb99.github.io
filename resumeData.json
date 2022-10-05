@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Farid Boulos",
+    "occupation": "Software Engineer",
+    "description": "learn and improve my skills",
+    "contactmessage": "Please don't hesitate to contact me by phone or e-mail for any project or opportunity.",
+    "email": "faridboulos99@gmail.com",
+    "bio": "I am an aspiring robotics engineer with a passion for improving the world around me! I am always looking for new projects that have a positive impact on my community and provide learning experiences. Outside of work, I am an avid reader that loves to learn about new topics, especially relating to technology, history and space. Some of my hobbies include Calisthenics workouts, a friendly Paintball match or stargazing with a telescope. ",
+    "phone": "+961 71 711 760",
+    "address": {
+      "street": "Street 15",
+      "city": "Beirut",
+      "state": "Lebanon"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "http://github.com/faridb99",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Please find below a list of my current skills: ",
+    "education": [
+      {
+        "school": "American University of Beirut",
+        "degree": "Bachelor’s degree in Electrical and Computer Engineering",
+        "graduated": "September 2017 – August 2021"
+      },
+      {
+        "school": "University of California, Los Angeles",
+        "degree": "Summer Exchange Program",
+        "graduated": "June – August 2019"
+      },
+      {
+        "school": "Athénée de Beyrouth",
+        "degree": "French Baccalaureate, emphasis on Mathematics",
+        "graduated": "September 2005 – May 2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "NASCO",
+        "title": "Full Stack Developer",
+        "years": "September 2022 – Present",
+        "description1": "- Training in Front End and Back End development using technologies such as Next.js, ExpressJS, MongoDB and Strapi",
+        "description2": ""
+      },
+      {
+        "company": "Flying Submarine",
+        "title": "Software Developer",
+        "years": "November 2021 – Present",
+        "description1": "- Exploring the use of Augmented Reality and Robotics in future projects",
+        "description2": "- Led the development of an Automated Donation Machine that prompts users to donate for a specific cause and thanks them for their contribution"
+      },
+      {
+        "company": "Invigo",
+        "title": "Intern",
+        "years": "October 2021 – May 2022",
+        "description1": "- Worked on Automated Acceptance Testing for a company product using Robot Framework and Selenium Library",
+        "description2": ""
+      },
+      {
+        "company": "LeCoach",
+        "title": "Tutor",
+        "years": "October 2020 – December 2021",
+        "description1": "- Tutored university students in Computer Science and Math. Course material taught includes but is not limited to Python, SQL, Microsoft Excel and SAT Math",
+        "description2": ""
+      },
+      {
+        "company": "Invigo",
+        "title": "Intern",
+        "years": "July – August 2020",
+        "description1": "- Researched the possibility of moving one of the company’s products from Vue.js and ElementUI to the QuasarFramework as a proof of concept for future migrations",
+        "description2": ""
+      },
+      {
+        "company": "Invigo",
+        "title": "Intern",
+        "years": "August 2016",
+        "description1": "- Created a “Heat Map View” application on Android Studio for an existing Android service that logs and sends the user’s location along with several network parameters to Invigo’s testbed server. ",
+        "description2": "- Translated the acquired data into an interactive map for clear display and accurate interpretation so that the data can be used to determine areas with low-quality networks and improve network quality therein."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages: ",
+        "content": "Python, Machine Learning Libraries, JavaScript, C, C++"
+      },
+      {
+        "name": "Agile Project Management Tools: ",
+        "content": "Github, Bitbucket, Jira"
+      },
+      {
+        "name": "Prototyping: ",
+        "content": "3D Printing, Laser Cutter, Machine Shop User"
+      },
+      {
+        "name": "Languages: ",
+        "content": "French (Native), English (Fluent), Arabic (Proficient) "
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Automated Greenhouse",
+        "url": "C5aBCINymh8",
+        "description": "Built an Automated Greenhouse for Final Year Project with two teamates. Won the Exceptional Final Year Project award."
+      },
+      {
+        "title": "Augmented Reality",
+        "url": "RePLMCEtjlY",
+        "description": "Leading the development of an Augmented Reality phone booth that will be used for advertising purposes."
+      },
+      {
+        "title": "Reactive Donation Machine",
+        "url": "JftkywG7jnk",
+        "description": "Designed and programmed a Windows PC to accept donations from users with a credit card machine. The machine thanks the user for their contribution with a video."
+      },
+      {
+        "title": "6-axis Robot Arm",
+        "url": "lic6FSW3Q9M",
+        "description": "Research and Development on a 6-axis Robot arm. Tasked with improving arm movement."
+      },
+      {
+        "title": "Old Projects (2015)",
+        "url": "4AEDkGMxSRQ",
+        "description": "Old Projects relating to an animatronic Iron Man Suit. These were done for hobby purposes."
+      }
+    ]
+  },
+
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
