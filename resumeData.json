@@ -86,8 +86,8 @@
         "company": "Invigo",
         "title": "Intern",
         "years": "August 2016",
-        "description1": "- Created a “Heat Map View” application on Android Studio for an existing Android service that logs and sends the user’s location along with several network parameters to Invigo’s testbed server. ",
-        "description2": "- Translated the acquired data into an interactive map for clear display and accurate interpretation so that the data can be used to determine areas with low-quality networks and improve network quality therein."
+        "description1": "- Created a “Heat Map View” application on Android Studio for an existing Android service that logs and sends the user’s location along with several network parameters to Invigo’s testbed server",
+        "description2": "- Translated the acquired data into an interactive map for clear display and accurate interpretation so that the data can be used to determine areas with low-quality networks and improve network quality therein"
       }
     ],
     "skills": [
