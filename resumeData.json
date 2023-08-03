@@ -4,13 +4,12 @@
     "occupation": "Software Engineer",
     "description": "learn and improve my skills",
     "contactmessage": "Please don't hesitate to contact me by phone or e-mail for any project or opportunity.",
-    "email": "faridboulos99@gmail.com",
+    "email": "faridboulos@mines.edu",
     "bio": "I am an aspiring robotics engineer with a desire to improve the world around me! I am always looking for projects that can provide me with new learning experiences as well as have a positive impact on my community. Outside of work, I am an avid reader that loves to learn about new topics, especially relating to technology, history and space. Some of my hobbies include Calisthenics workouts, a friendly Paintball match or stargazing with a telescope. ",
 
     "address": {
-      "street": "Street 15",
-      "city": "Beirut",
-      "state": "Lebanon"
+      "city": "Denver",
+      "state": "Colorado"
     },
     "website": "http://faridb99.github.io/",
     "resumedownload": "https://drive.google.com/file/d/1do8YJSeTdpV_kRYctmQK9Jjx2ygrEbkM/view?usp=sharing",
@@ -25,6 +24,12 @@
   "resume": {
     "skillmessage": "Please find below a list of my current skills: ",
     "education": [
+      {
+        "school": "Colorado School of Mines",
+        "degree": "Master of Science in Robotics – Non Thesis",
+        "graduated": "August 2023 – Present",
+        "description1": "- Developed screens and features for web applications using MERN stack (MongoDB, Express, React, Node.js)"
+      },
       {
         "school": "American University of Beirut",
         "degree": "Bachelor’s degree in Electrical and Computer Engineering",
@@ -45,15 +50,15 @@
       {
         "company": "NASCO",
         "title": "Full Stack Developer",
-        "years": "September 2022 – Present",
-        "description1": "- Training in Front End and Back End development using technologies such as Next.js, ExpressJS, MongoDB and Strapi",
-        "description2": ""
+        "years": "September 2022 – June 2023",
+        "description1": "- Developed screens and features for web applications using MERN stack (MongoDB, Express, React, Node.js)",
+        "description2": "- Reviewed coworkers' pull requests to ensure code quality and clarity"
       },
       {
         "company": "Flying Submarine",
         "title": "Software Developer",
-        "years": "November 2021 – Present",
-        "description1": "- Exploring the use of Augmented Reality and Robotics in future projects",
+        "years": "November 2021 – June 2023",
+        "description1": "- Explored the use of Augmented Reality and Robotics in future projects",
         "description2": "- Led the development of an Automated Donation Machine that prompts users to donate for a specific cause and thanks them for their contribution"
       },
       {
